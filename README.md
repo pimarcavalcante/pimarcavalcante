@@ -18,10 +18,9 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software (Q
 
 ### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
