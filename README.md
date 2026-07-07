@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou Pimar Cavalcante
+### Olá, eu sou Pimar Cavalcante!
 
 Profissional de **Quality Assurance (QA)** com experiência em testes manuais e automação, focada em garantir a qualidade, confiabilidade e eficiência de produtos digitais. 
 
