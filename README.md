@@ -16,12 +16,4 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software (Q
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
-
----
-
 > *"Criatividade para imaginar cenários. Precisão para validá-los."*
