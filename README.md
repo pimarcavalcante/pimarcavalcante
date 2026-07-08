@@ -2,28 +2,9 @@
 
 **`Quality Assurance (QA)`**
 
-Profissional de **Quality Assurance (QA)** com experiência em testes manuais e automação, focada em garantir a qualidade, confiabilidade e eficiência de produtos digitais. 
+Enxergo o software além do óbvio, testando limites com um olhar treinado para perceber o que, muitas vezes, passa despercebido. Com 20 anos de trajetória profissional que unem a gestão administrativa ao rigor visual da fotografia, desenvolvi uma sensibilidade clínica para identificar inconsistências e atenção aos detalhes.
 
-Enxergo o software além do óbvio. Trago uma trajetória profissional que une a gestão administrativa ao rigor visual da fotografia, o que me permitiu desenvolver uma sensibilidade clínica e uma atenção aos detalhes afiada para identificar inconsistências que costumam passar despercebidas. 
-
-Hoje, aplico esse repertório analítico na garantia da qualidade de software, tendo estruturado projetos práticos de ponta a ponta no bootcamp intensivo da TripleTen. Sou movida pelo desafio de garantir entregas excelentes e pela resolução criativa de problemas, acreditando que a tecnologia pode ser mais humana.
-
-<p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEU-USUARIO?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Hoje, aplico esse repertório analítico na garantia da qualidade de software (QA). Concluí o bootcamp intensivo de Quality Assurance na TripleTen, onde estruturei projetos práticos de ponta a ponta, unindo a criatividade para imaginar cenários de falha à precisão técnica para validá-los.
 
 ---
 
@@ -36,6 +17,14 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software, t
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pytest" 
+    title="Pytest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" 
 />
 <img 
     align="left" 
@@ -55,8 +44,8 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software, t
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -69,6 +58,14 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software, t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Agile" 
+    title="Agile/Scrum"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -77,54 +74,16 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software, t
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-#### 🤖 Automação de Testes
-- **Linguagem & Framework:** Python | Pytest
-- **Web Testing:** Selenium WebDriver
-- **Arquitetura:** Page Object Model (POM)
-
-#### 🔌 Testes de API
-- **Ferramentas:** Postman
-- **Validações:** APIs REST | JSON
-
-#### 🧪 Testes de Software
-- **Abordagens:** Testes Manuais | Testes Exploratórios
-- **Artefatos:** Criação de Casos de Teste | Cenários Críticos
-- **Estratégia:** Validação de Requisitos | Prevenção de Falhas
-
-#### 🗄️ Banco de Dados
-- **Consultas:** SQL (Validação e consulta de dados)
-
-#### ⚙️ Processos & Metodologias
-- **Metodologias:** Ágil (Agile / Scrum)
-- **Controle de Versão:** Git & GitHub
-- **Foco:** Boas práticas de Quality Assurance
+- **✔️ Automação de Testes:** Python, Pytest, Selenium WebDriver (Page Object Model).
+- **✔️ Testes de API:** Validação com Postman e JSON.
+- **✔️ Testes Manuais e Exploratórios:** Elaboração de casos de teste e identificação de cenários críticos.
+- **✔️ Banco de Dados:** Consultas SQL para validação de dados.
+- **✔️ Metodologias:** Ágeis (Agile) e ferramentas de controle de versão.
 
 ---
 
 ### 🎯 Objetivo
 
-Busco contribuir para o desenvolvimento de produtos digitais confiáveis, colaborando com equipes multidisciplinares para prevenir falhas, melhorar processos e entregar software com qualidade desde as primeiras etapas do desenvolvimento.
+Sou movida pelo desafio de garantir entregas excelentes e pela resolução criativa de problemas em ambientes dinâmicos. Estou em busca de oportunidades onde eu possa contribuir para a qualidade de produtos digitais com um olhar diferenciado e técnico.
 
 > **"Criatividade para imaginar cenários. Precisão para validá-los."**
-
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
