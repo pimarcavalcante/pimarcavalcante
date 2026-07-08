@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pimar Cavalcante
+# Pimar Cavalcante
 
 **`Quality Assurance (QA)`**
 
@@ -8,7 +8,7 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software (Q
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -72,7 +72,7 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software (Q
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
+### Minha Caixa de Ferramentas
 
 - **✔️ Automação de Testes:** Python, Pytest, Selenium WebDriver (Page Object Model).
 - **✔️ Testes de API:** Validação com Postman e JSON.
@@ -82,7 +82,7 @@ Hoje, aplico esse repertório analítico na garantia da qualidade de software (Q
 
 ---
 
-### 🎯 Objetivo
+### Objetivo
 
 Sou movida pelo desafio de garantir entregas excelentes e pela resolução criativa de problemas em ambientes dinâmicos. Estou em busca de oportunidades onde eu possa contribuir para a qualidade de produtos digitais com um olhar diferenciado e técnico.
 
