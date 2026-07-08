@@ -1,8 +1,12 @@
-### Olá, eu sou Pimar Cavalcante!
+# 👩🏻‍💻 Pimar Cavalcante
+
+https://www.linkedin.com/in/pimarcavalcante/
+
+**`Quality Assurance (QA)`**
 
 Profissional de **Quality Assurance (QA)** com experiência em testes manuais e automação, focada em garantir a qualidade, confiabilidade e eficiência de produtos digitais. 
 
-Enxergo o software além do óbvio. Trago uma trajetória profissional de 20 anos que une a gestão administrativa ao rigor visual da fotografia, o que me permitiu desenvolver uma sensibilidade clínica e uma atenção aos detalhes afiada para identificar inconsistências que costumam passar despercebidas. 
+Enxergo o software além do óbvio. Trago uma trajetória profissional que une a gestão administrativa ao rigor visual da fotografia, o que me permitiu desenvolver uma sensibilidade clínica e uma atenção aos detalhes afiada para identificar inconsistências que costumam passar despercebidas. 
 
 Hoje, aplico esse repertório analítico na garantia da qualidade de software, tendo estruturado projetos práticos de ponta a ponta no bootcamp intensivo da TripleTen. Sou movida pelo desafio de garantir entregas excelentes e pela resolução criativa de problemas.
 
